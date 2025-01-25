@@ -1,0 +1,1 @@
+print('maior de idade')
